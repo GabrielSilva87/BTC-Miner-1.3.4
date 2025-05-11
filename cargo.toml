@@ -1,0 +1,11 @@
+[package]
+name = "bitcoin_generator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+secp256k1 = "0.22"
+sha2 = "0.10"
+ripemd160 = "0.10"
+base58 = "0.1"
+rand = "0.8"
